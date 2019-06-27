@@ -1,10 +1,10 @@
-#gif { height: 70%;
-    width: 80%; margin-left:auto; margin-right: auto; display:block}
+#gif { height: 50%; margin-left:auto; margin-right: auto; display:block}
 p {font-family: Times}    
 head{background:#797746}
 body{background:#797746}
 .nav-link{color:#FFE20A}
 .nav-link active{color:#FFE20A}
-#cabecera{ height: 80%; margin-left:auto; margin-right: auto; display:block}
+#cabecera{ height: 80%;
+    width: 80%; margin-left:auto; margin-right: auto; display:block}
 #foto{height: 30%}
   
