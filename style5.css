@@ -1,7 +1,14 @@
 p {font-family: Times; size: 6}       
-head{background:#525D4C}
-body{background: #525D4C}
+head{background:#797746}
+body{background:#797746}
 h2 { color: #FFE20A; font-family: Monserrat; text-align: center; size: 8}
-h3 { color:#FFE20A; font-family: Monserrat; text-align: center; size: 8}
-h4 { color: #FFE20A; font-family: Monserrat; text-align: center; size: 8}
-h5 { color: #FFE20A; font-family: Monserrat; text-align: center; size: 8}
+.nav-link{color:#FFE20A}
+.nav-link active{color:#FFE20A}
+#cabecera{ height: 80%;
+    width: 80%; margin-left:auto; margin-right: auto; display:block}
+
+    #nico{text-align: center}
+    #jumpsuit{margin-left:auto; margin-right: auto; display:block}
+    #levitate{}
+    #myblood{}
+    #chlorine{}

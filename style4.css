@@ -1,7 +1,13 @@
 h1 { text-align: center}
 h2 { color:#FFE20A; font-family: Monserrat; text-align: center; size: 15}
-#mapa{height: 30%;
-    width: 30% }
+#mapa{height: 30%; margin-left:auto; margin-right: auto; display:block }
 p {font-family: Times; size:10} 
-head{background:#525D4C}
-body{background: #525D4C}
+head{background:#797746}
+body{background:#797746}
+.nav-link{color:#FFE20A}
+.nav-link active{color:}
+#cabecera{ height: 80%;
+    width: 80%; margin-left:auto; margin-right: auto; display:block}
+#resumen{color:#FFE20A}    
+#significado{color:#FFE20A}
+ #demaweb{color:#FFE20A} 
